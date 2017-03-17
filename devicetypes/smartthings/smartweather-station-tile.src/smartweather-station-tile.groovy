@@ -42,7 +42,7 @@ metadata {
 	}
 
 	preferences {
-		input "zipCode", "text", title: "Zip Code (optional)", required: false
+		input "zipCode", "text", title: "62208", required: false
 	}
 
 	tiles {
